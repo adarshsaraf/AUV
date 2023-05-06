@@ -1,5 +1,7 @@
 # 5 May 2023
 
+
+
 ## Battery:
 
 Sent the data to Kailash, need a report back on the size and weight of the whole thing. Maybe have a physical meeting where I discuss more about battery and BMS. Give this back to the mechanical team.
@@ -31,6 +33,8 @@ Design of how the arm will work to carry the balls.
 Working of second camera?
 
 # 6 May 2023
+
+*Received the pcb schematics and other documents from Pavan*
 
 ## Battery:
 
