@@ -73,3 +73,47 @@ Work with Mrinmoy and Harsha on Jetson and Arduino connection. Where the control
 Design of how the arm will work to carry the balls.
 
 Working of second camera?
+
+# 8 May 2023
+
+## Battery:
+
+**Adarsh Saraf:**
+
+Changing the values of the battery:
+
+Battery specification:
+Total Power: 2kW
+Voltage: 16V
+Current: 120A
+Charge: 80 Ah
+
+In-rush current: 155 A [Tentative]
+
+Transient duration: 1.5 s
+
+Modularity of the Battery pack & shrink wrapping [will factor in the price and transportation]
+
+Checking the transportation rules of batteries. Calling Air India and related beuracracy. Ask other teams how they do it? [Vishwa] [Logistics]
+
+On Air India site: “lithium ion batteries the Watt-hour rating must not exceed 100 Wh.”
+
+**Varun Pokala:**
+
+Figure out if the old battery is working. Charge it. Find the configuration and the specifications.
+
+## Power System:
+
+**Soumik Rao & Varun Pokala:**
+
+Work on kill switch and the relays for the circuit.
+
+PCB design for the power system.
+
+## Control System:
+
+**Adarsh Saraf & Ishna Jain:**
+
+Have testing code for the sensors and thrusters, uploaded on GitHub. Need to do testing of old/original code on the Oscilloscope. Work out the programming for the sensors and thruster movement. [Adarsh]
+
+Work with Mrinmoy and Harsha on Jetson and Arduino communication. Figure out where the control algorithm will sit. [Ishna]
