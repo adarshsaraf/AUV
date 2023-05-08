@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name AUVMEC2020)(type KiCad)(uri ${KIPRJMOD}/AUVMEC2020.pretty)(options "")(descr ""))
+)

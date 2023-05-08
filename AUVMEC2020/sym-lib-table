@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AUVMEC2020-rescue)(type Legacy)(uri ${KIPRJMOD}/AUVMEC2020-rescue.lib)(options "")(descr ""))
+  (lib (name AUVMEC2020)(type Legacy)(uri ${KIPRJMOD}/AUVMEC2020.lib)(options "")(descr ""))
+)
