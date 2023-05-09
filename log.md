@@ -117,3 +117,10 @@ PCB design for the power system.
 Have testing code for the sensors and thrusters, uploaded on GitHub. Need to do testing of old/original code on the Oscilloscope. Work out the programming for the sensors and thruster movement. [Adarsh]
 
 Work with Mrinmoy and Harsha on Jetson and Arduino communication. Figure out where the control algorithm will sit. [Ishna]
+
+
+# 9 May 2023
+
+## Battery:
+
+IITB uses LiPo batteries which it buys in Singapore itself. Do we shift to LiPo or buy Li-on there?
