@@ -124,3 +124,27 @@ Work with Mrinmoy and Harsha on Jetson and Arduino communication. Figure out whe
 ## Battery:
 
 IITB uses LiPo batteries which it buys in Singapore itself. Do we shift to LiPo or buy Li-on there?
+
+# 10 May 2023
+
+## Battery:
+
+I checked on the IITB-AUV website they seemed to be using a muuch lower capacity battery for their use. But since we want higher testing times we made the choice of higher capacity.
+ITU (turkey AUV Team) specs:
+ - 4s1p 7000mAh Li-Po x2
+ - that means 14.8V & 14Ah battery.
+
+IITB specs:
+ - 16V & 120A but 16Ah x2
+ - Li-Po batteries
+
+Talked to Kailash bhaiya, he said other than Lithium Phosphate all other LiPos can use the same BMS as Li-on.
+To-do next:
+ - Get the quotation and size for Li-on battery.
+ - Talk to airlines and airport authorities about it.[Transport by sea, air cargo dhl]
+ - Find the inrush current for BMS, ask bhaiya again.
+ - Find Li-Po to purchase now.
+ - Experiment with the thruster and battery to find how long it lasts.
+ - Mechanical team need to build a CFD to give idea of how much power is need underwater.
+
+
