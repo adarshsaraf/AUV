@@ -142,7 +142,7 @@ Talked to Kailash bhaiya, he said other than Lithium Phosphate all other LiPos c
 To-do next:
  - Get the quotation and size for Li-on battery.
  - Talk to airlines and airport authorities about it.[Transport by sea, air cargo dhl]
- - Find the inrush current for BMS, ask bhaiya again.
+ - Find the inrush current for BMS, ask bhaiya again. Discuss with Gopinath sir about over-charging and under-charging.
  - Find Li-Po to purchase now.
  - Experiment with the thruster and battery to find how long it lasts.
  - Mechanical team need to build a CFD to give idea of how much power is need underwater.
