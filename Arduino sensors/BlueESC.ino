@@ -18,6 +18,7 @@ void Pwm_esc(float thrust){
 }
 
 void setup(){
+	Serial.begin(9600);
 	servo.attach(servoPin1);  //Initializing Pin 1
 	servo2.attach(servoPin2);
  	servo3.attach(servoPin3);
